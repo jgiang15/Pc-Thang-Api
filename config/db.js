@@ -1,7 +1,7 @@
 'use strict'
 
 // creating a base name for the mongodb
-const mongooseBaseName = 'PC-Thang-Api'
+const mongooseBaseName = 'Pc-Thang-Api'
 
 // create the mongodb uri for development and test
 const database = {
