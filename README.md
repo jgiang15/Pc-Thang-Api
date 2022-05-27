@@ -18,14 +18,14 @@ Once the account is created: create posts and add specs to them
 
 ### Wireframes: 
 
-![WireFrame](./src/Images/Wireframe.jpeg)
+![WireFrame](./app/Images/Wireframe.jpeg)
 
 ### ERD: 
 
-![ERD](./src/Images/ERD.jpeg)
+![ERD](./app/Images/ERD.jpeg)
 
 ### Application: 
-![App](./src/Images/application.png)
+![App](./app/Images/application.png)
 
 ### User stories: 
 - As an unregistered user, I would like to sign up with email and password.
