@@ -10,7 +10,7 @@
         "gpu": "'"${GPU}"'",
         "ram": "'"${RAM}"'",
         "powersupply": "'"${POW}"'",
-        "CPU": "'"${CPU}"'",
+        "cpu": "'"${CPU}"'",
         "storage": "'"${STOR}"'",
         "postId": "'"${POSTID}"'",
         "owner": "'"${USER_ID}"'"

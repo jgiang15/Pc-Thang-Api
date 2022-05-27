@@ -1,7 +1,7 @@
 API="http://localhost:4741"
 URL_PATH="/specs"
 
-curl "${API}${URL_PATH}/${RESPONSE_ID}" \
+curl "${API}${URL_PATH}/${SPEC_ID}" \
   --include \
   --request GET \
   --header "Authorization: Bearer ${TOKEN}" \
